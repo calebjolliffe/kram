@@ -1,5 +1,2 @@
 # Kram
-Digitizing analog notes using markdown.
-
-## Repo Structure
-In progress.
+Building a converter to turn emails into Markdown files.
